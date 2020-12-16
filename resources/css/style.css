@@ -1,0 +1,36 @@
+body {
+    background-color: black;
+    font-weight: normal;
+    text-align: center;
+    color: white;
+    font-family: Verdana;
+
+}
+
+h1 {
+    font-size: 50px;
+}
+
+a {
+    color: aquamarine;
+    font-size: 16px;
+
+}
+
+video {
+    padding: 20px;
+}
+
+.subtitle {
+    font-weight: 300;
+    font-size: 42px;
+}
+
+.description {
+    font-size: 21px;
+    color: gray;
+}
+
+#mobile {
+    padding: 10px;
+}
