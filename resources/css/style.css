@@ -17,9 +17,9 @@ a {
 
 }
 
-video {
+/*video {
     padding: 20px;
-}
+}*/
 
 .subtitle {
     font-weight: 300;
@@ -33,4 +33,9 @@ video {
 
 #mobile {
     padding: 10px;
+}
+
+footer {
+    text-align: right;
+    color: gray;
 }
